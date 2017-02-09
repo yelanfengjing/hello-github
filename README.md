@@ -1,2 +1,2 @@
 # hello-github
-just exercise
+hi,I come from China.I like coding,econimics,and music.
